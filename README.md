@@ -9,7 +9,7 @@
 <br/>
 
 ## ℹ️ Sobre o projeto
-Este foi um projeto do módulo de Back-End da [Trybe](https://www.betrybe.com/), onde colocamos em prática conhecimentos adquiridos sobre banco de dados NoSQL, utilizando o Sistema de Gerenciamento de Banco de Dados [MongoDB](https://www.mongodb.com/). A seguir há uma lista das habilidades praticadas neste projeto:
+Este foi um projeto do módulo de Back-End da [Trybe](https://www.betrybe.com/), onde colocamos em prática conhecimentos adquiridos sobre banco de dados NoSQL, utilizando o Sistema de Gerenciamento de Banco de Dados [MongoDB](https://www.mongodb.com/), e o banco de dados `DataFlights` que contém dados detalhados sobre voos de natureza doméstica e internacional. A seguir há uma lista das habilidades praticadas neste projeto:
 
 <br />
 
